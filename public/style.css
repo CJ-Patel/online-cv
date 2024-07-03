@@ -1,0 +1,28 @@
+.series {
+    border: 5px solid black;
+    height: 20%;
+    width: 20%;
+    margin: 10px;
+    float: left;
+}
+p {
+    text-align: center;
+    margin: 10px;
+    padding: 0%;
+}
+
+.varietyshow {
+    border: 5px solid black;
+    height: 20%;
+    width: 20%;
+    margin: 10px;
+    float: left;
+}
+
+.movies {
+    border: 5px solid black;
+    height: 20%;
+    width: 20%;
+    margin: 10px;
+    float: left;
+}
